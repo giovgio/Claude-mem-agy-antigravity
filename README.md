@@ -4,6 +4,9 @@ This repository details how to integrate and use **[claude-mem](https://github.c
 
 Claude-mem captures your session observations, tool outputs, and decisions in the background, then injects relevant summaries as context at the start of your subsequent sessions.
 
+# Buy me a coffee
+If you find this interesting, buy me a coffee: https://buymeacoffee.com/mrtobor
+
 ---
 
 ## Prerequisites
@@ -91,3 +94,5 @@ Restart your `agy` session to pick up the newly configured MCP server.
 
 1. **Passive Learning**: Start working normally. As you view files, write code, and run commands, Claude-mem captures observations passively.
 2. **Context Injection**: On your second session in a project workspace, the injected context will automatically populate the agent's context, letting the agent "remember" previous tasks and architecture patterns.
+
+
